@@ -1,7 +1,7 @@
 # Folders to ignore
 szakirodalom/
 retmalaborkonzultci/
-
+.idea/
 
 # Ignore specific file extensions
 *.csv
