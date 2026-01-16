@@ -2,6 +2,7 @@
 szakirodalom/
 retmalaborkonzultci/
 .idea/
+.venv/
 
 # Ignore specific file extensions
 *.csv
